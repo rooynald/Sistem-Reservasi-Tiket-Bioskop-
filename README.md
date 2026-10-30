@@ -28,4 +28,4 @@ Sistem Reservasi Tiket Bioskop merupakan aplikasi berbasis Command Line Interfac
 Sesuaikan pembagian ini dengan pekerjaan dan commit yang benar-benar dilakukan.
 
 ## Catatan
-Data hanya tersimpan selama program berjalan. Data akan hilang ketika program ditutup, sesuai cakupan Tahap 1 pada brief.
+Data hanya tersimpan selama program berjalan. Data akan hilang saat program ditutup, sesuai cakupan Tahap 1 pada brief.
